@@ -1,0 +1,14 @@
+gradio>=6.0,<7
+torch
+torchvision
+tensorflow-cpu>=2.18
+tensorflow-hub>=0.16
+ultralytics
+opencv-python-headless
+imageio
+imageio-ffmpeg
+scikit-image
+pandas
+matplotlib
+Pillow
+setuptools<81

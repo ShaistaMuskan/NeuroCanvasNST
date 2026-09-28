@@ -1,0 +1,7 @@
+__pycache__/
+models/*.pth
+yolov8n-seg.pt
+evaluation_results/
+*_neurocanvas.mp4
+.venv/
+.env
